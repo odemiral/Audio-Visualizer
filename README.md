@@ -1,4 +1,4 @@
-Audio Visualiuzer 
+Audio Visualizer 
 =====================
 An audio visualizer written in C++ using [openFrameWorks](http://en.wikipedia.org/wiki/OpenFrameworks) and [libsndfile](http://en.wikipedia.org/wiki/Libsndfile) 
 It offers a real-time audio visualization from microphone input or audio files using FFT analysis.
@@ -12,12 +12,13 @@ libsndfile supports WAV, AIFF, FLAC formats. More info about supported formats c
 Dependencies
 =====================
 [OpenFrameworks 0072](https://github.com/openframeworks/openFrameworks) or higher
+
 [libsndfile](https://github.com/erikd/libsndfile)
 
 
 How to Compile
 =====================
-Depending on your platform follow the setup [guides](http://openframeworks.cc/download/) for openFrameworks. Once you setup your envoirement include the code in src folder and compile it.
+Depending on your platform follow the setup [guides](http://openframeworks.cc/download/) for openFrameworks. Once you setup your environment include the code in src folder and compile it.
 
 
 Usage
@@ -28,16 +29,13 @@ Usage
 	Press M to use Microphone
 
 2) Sound Files:
+
 	Press F to browse folders and select the sound file.
 
 
-Once you select to use microphone or sound files, you can toggle between various [window functions](http://en.wikipedia.org/wiki/Window_function) by pressing 0, 1, 2, 3, or 4.
+Once you select microphone or sound files, you can toggle between various [window functions](http://en.wikipedia.org/wiki/Window_function) by pressing 0, 1, 2, 3, or 4.
 
-**Executable can be downloaded from [here](goo.gl/KOYyPJ)**
-
-
-![Example photo mosaic](https://dl.dropbox.com/s/m9j08lwgxt9d55s/GUI.jpg)
-![Example photo mosaic](https://dl.dropbox.com/s/zcfiyc6julqty65/Star%20Wars%20Mosaic%20Example.jpg)
+**Executable can be downloaded from [here](http://goo.gl/KOYyPJ)**
 
 
 
