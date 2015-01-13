@@ -5,24 +5,24 @@ It offers a real-time audio visualization from microphone input or audio files u
 
 
 Supported Audio Formats
-=====================
+------------------------
 libsndfile supports WAV, AIFF, FLAC formats. More info about supported formats can be found [here](http://www.mega-nerd.com/libsndfile/)
 
 
 Dependencies
-=====================
+------------------------
 [OpenFrameworks 0072](https://github.com/openframeworks/openFrameworks) or higher
 
 [libsndfile](https://github.com/erikd/libsndfile)
 
 
 How to Compile
-=====================
+------------------------
 Depending on your platform follow the setup [guides](http://openframeworks.cc/download/) for openFrameworks. Once you setup your environment include the code in src folder and compile it.
 
 
 Usage
-=====================
+------------------------
 
 1) Microphone:
 
